@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.2](https://github.com/near/near-plugins/compare/near-plugins-v0.5.1...near-plugins-v0.5.2) - 2026-06-09
+
+### Other
+
+- fix changelogs for release-plz automation ([#194](https://github.com/near/near-plugins/pull/194))
+
 ## [0.5.1](https://github.com/near/near-plugins/releases/tag/near-plugins-v0.5.1) - 2026-04-08
 
 ### Added
