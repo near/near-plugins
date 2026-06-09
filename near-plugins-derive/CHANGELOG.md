@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.2](https://github.com/near/near-plugins/compare/near-plugins-derive-v0.5.1...near-plugins-derive-v0.5.2) - 2026-06-09
+
+### Fixed
+
+- detect near_bindgen-generated functions on rustc >= 1.87 ([#197](https://github.com/near/near-plugins/pull/197))
+- use path+version deps for inter-crate references to fix crates.io publishing ([#187](https://github.com/near/near-plugins/pull/187))
+
+### Other
+
+- fix changelogs for release-plz automation ([#194](https://github.com/near/near-plugins/pull/194))
+
 ## [0.5.1](https://github.com/near/near-plugins/releases/tag/near-plugins-derive-v0.5.1) - 2026-04-08
 
 ### Added
