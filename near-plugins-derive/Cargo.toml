@@ -6,7 +6,7 @@ rust-version.workspace = true
 version.workspace = true
 description.workspace = true
 license.workspace = true
-readme.workspace = true
+readme = "README.md"
 repository.workspace = true
 homepage.workspace = true
 keywords.workspace = true
@@ -23,7 +23,7 @@ proc-macro-crate.workspace = true
 
 [dev-dependencies]
 anyhow.workspace = true
-near-plugins = { path = "../near-plugins/", version = "0.5.2" }
+near-plugins = { path = "../near-plugins/" }
 near-sdk = { workspace = true, features = ["unit-testing"] }
 tokio.workspace = true
 near-workspaces.workspace = true
