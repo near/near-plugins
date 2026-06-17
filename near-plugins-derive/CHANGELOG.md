@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.3](https://github.com/near/near-plugins/compare/near-plugins-derive-v0.5.2...near-plugins-derive-v0.5.3) - 2026-06-17
+
+### Fixed
+
+- ship the real README on crates.io ([#199](https://github.com/near/near-plugins/pull/199))
+
 ## [0.5.2](https://github.com/near/near-plugins/compare/near-plugins-derive-v0.5.1...near-plugins-derive-v0.5.2) - 2026-06-09
 
 ### Fixed

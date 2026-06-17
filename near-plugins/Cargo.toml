@@ -17,7 +17,7 @@ crate-type = ["cdylib", "rlib"]
 [dependencies]
 bitflags.workspace = true
 near-sdk.workspace = true
-near-plugins-derive = { path = "../near-plugins-derive/", version = "0.5.2" }
+near-plugins-derive = { path = "../near-plugins-derive/", version = "0.5.3" }
 serde.workspace = true
 
 [dev-dependencies]
